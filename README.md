@@ -1,4 +1,4 @@
-# curso_flutter
+# yes-no-app-flutter
 
 A new Flutter project.
 
