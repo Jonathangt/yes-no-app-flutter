@@ -1,4 +1,4 @@
-import 'package:curso_flutter/domain/entities/message.dart';
+import 'package:yes_no_app/domain/entities/message.dart';
 import 'package:flutter/material.dart';
 
 class HerMessageBubble extends StatelessWidget {

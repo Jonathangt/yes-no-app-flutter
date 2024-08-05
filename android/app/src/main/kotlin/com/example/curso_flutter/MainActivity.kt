@@ -1,4 +1,4 @@
-package com.example.curso_flutter
+package com.example.yes_no_app
 
 import io.flutter.embedding.android.FlutterActivity
 

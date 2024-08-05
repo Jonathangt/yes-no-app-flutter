@@ -20,7 +20,7 @@
 
 //String yesNoModelToJson(YesNoModel data) => json.encode(data.toJson());
 
-import 'package:curso_flutter/domain/entities/message.dart';
+import 'package:yes_no_app/domain/entities/message.dart';
 
 class YesNoModel {
   final String answer;

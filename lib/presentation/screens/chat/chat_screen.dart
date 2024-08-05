@@ -1,8 +1,8 @@
-import 'package:curso_flutter/domain/entities/message.dart';
-import 'package:curso_flutter/presentation/providers/chat_provider.dart';
-import 'package:curso_flutter/presentation/widgets/chat/her_message_bubble.dart';
-import 'package:curso_flutter/presentation/widgets/chat/my_message_bubble.dart';
-import 'package:curso_flutter/presentation/widgets/shared/message_field_box.dart';
+import 'package:yes_no_app/domain/entities/message.dart';
+import 'package:yes_no_app/presentation/providers/chat_provider.dart';
+import 'package:yes_no_app/presentation/widgets/chat/her_message_bubble.dart';
+import 'package:yes_no_app/presentation/widgets/chat/my_message_bubble.dart';
+import 'package:yes_no_app/presentation/widgets/shared/message_field_box.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

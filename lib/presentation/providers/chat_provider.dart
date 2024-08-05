@@ -1,4 +1,4 @@
-import 'package:curso_flutter/config/helpers/get_yes_no_answer.dart';
+import 'package:yes_no_app/config/helpers/get_yes_no_answer.dart';
 import 'package:flutter/material.dart';
 
 import '../../domain/entities/message.dart';

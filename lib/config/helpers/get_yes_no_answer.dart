@@ -1,4 +1,4 @@
-import 'package:curso_flutter/infrastructure/models/yes_no_model.dart';
+import 'package:yes_no_app/infrastructure/models/yes_no_model.dart';
 import 'package:dio/dio.dart';
 
 import '../../domain/entities/message.dart';

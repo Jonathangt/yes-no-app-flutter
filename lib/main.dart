@@ -1,8 +1,8 @@
-import 'package:curso_flutter/presentation/providers/chat_provider.dart';
+import 'package:yes_no_app/presentation/providers/chat_provider.dart';
 import 'package:flutter/material.dart';
 
-import 'package:curso_flutter/config/theme/app_theme.dart';
-import 'package:curso_flutter/presentation/screens/chat/chat_screen.dart';
+import 'package:yes_no_app/config/theme/app_theme.dart';
+import 'package:yes_no_app/presentation/screens/chat/chat_screen.dart';
 import 'package:provider/provider.dart';
 
 void main() {
